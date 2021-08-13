@@ -1,3 +1,7 @@
+/* UI Elements STARTS 
+    The UI Elements include wildcard(all), head, body and the global tags p, a , h*
+    form, table, input... */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +11,24 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+/* UI Elements ENDS */
+
+
+/* Header STARTS (Navigation Logo)
+        The header is at the first section of the page.
+        The following contains its style and the style of
+        its children.*/
 
 header {
     padding: 20px;
@@ -41,39 +63,30 @@ header div ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
+/* Header ENDS */
+
+
+/* Hero STARTS (Image Below Navigation)*/
 
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
+    /* Set the hero image */
     background-size: cover;
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* Hero ENDS*/
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
+/* Benefits STARTS (Sidebar)
+        The benefits is right side panel section of the page.
+        The following contains its style and the style of
+        its children.*/
 
 .benefits {
     margin-right: 20px;
@@ -102,6 +115,21 @@ p {
     max-width: 150px;
 }
 
+
+/* Benefits ENDS*/
+
+
+/* Content STARTS (Main Content)
+        The Content is the section containing the articles.
+        The following contains its style and the style of
+        its children.*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .content article {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +148,25 @@ p {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+
+/* Content ENDS*/
+
+
+/* Footer STARTS (Bottom Copyright)
+        The footer is at the last section of the page
+        The following contains its style and the style of
+        its children.*/
+
 footer {
     padding: 30px;
     clear: both;
@@ -130,3 +177,6 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+
+/* Footer ENDS*/
