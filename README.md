@@ -7,7 +7,7 @@
 <li>Lead Generation</li>
 <li>Brand Awareness</li>
 <li>Cost Management</li>
-<ul>
+</ul>
 
 <br>
 <p> It comes with various errors and code duplication. The following mock-up is provided with it : </p>
@@ -20,6 +20,7 @@
 <ul>
 <li><a href="https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/index.html"> index.html </a></li>
 <li><a href="https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/assets/css/style.css"> assets/css/style.css </a></li>
-<ul>
+</ul>
 
+<br>
 <p>The live link for the Refactored version is <a href="https://htmlpreview.github.io/?https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/index.html">Horiseon</a></p>
