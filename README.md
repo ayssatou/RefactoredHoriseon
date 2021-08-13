@@ -9,7 +9,9 @@
 <li>Cost Management</li>
 <ul>
 
+<br>
 <p> It comes with various errors and code duplication. The following mock-up is provided with it : </p>
+
 <img src="Horiseon-mock-up.png" title="mock-up" alt="mock-up"/>
 
 <h1>Refactoring</h1>

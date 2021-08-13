@@ -73,8 +73,10 @@ header div ul li {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    /* Set the hero image */
+    /* Github HTMLPreview uses links relative to the index.html path.
+    For localhost or possibly other applications, the path may
+    be relative to the css file in which case "assets" should be replaced with ".." */
+    background-image: url("assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
