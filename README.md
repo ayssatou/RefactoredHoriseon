@@ -12,15 +12,15 @@
 <br>
 <p> It comes with various errors and code duplication. The following mock-up is provided with it : </p>
 
-<img src="Horiseon-mock-up.png" title="mock-up" alt="mock-up"/>
+<img src="assets/images/Horiseon-mock-up.png" title="mock-up" alt="mock-up"/>
 
 <h1>Refactoring</h1>
 
 <p>The following files have been refactored and when needed, commented. </p>
 <ul>
-<li><a href="https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/index.html"> index.html </a></li>
-<li><a href="https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/assets/css/style.css"> assets/css/style.css </a></li>
+<li><a href="index.html"> index.html </a></li>
+<li><a href="assets/css/style.css"> assets/css/style.css </a></li>
 </ul>
 
 <br>
-<p>The live link for the Refactored version is <a href="https://htmlpreview.github.io/?https://github.com/ayssatou/RefactoredHoriseon/blob/main/src/index.html">Horiseon</a></p>
+<p>The live link for the Refactored version is <a href="https://htmlpreview.github.io/?https://github.com/ayssatou/RefactoredHoriseon/blob/main/index.html">Horiseon</a></p>
