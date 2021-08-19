@@ -23,4 +23,4 @@
 </ul>
 
 <br>
-<p>The live link for the Refactored version is <a href="https://htmlpreview.github.io/?https://github.com/ayssatou/RefactoredHoriseon/blob/main/index.html">Horiseon</a></p>
+<p>The live link for the Refactored version is <a href="https://ayssatou.github.io/RefactoredHoriseon/">Horiseon</a></p>

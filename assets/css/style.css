@@ -76,7 +76,7 @@ header div ul li {
     /* Github HTMLPreview uses links relative to the index.html path.
     For localhost or possibly other applications, the path may
     be relative to the css file in which case "assets" should be replaced with ".." */
-    background-image: url("assets/images/digital-marketing-meeting.jpg");
+    background-image: url("/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
